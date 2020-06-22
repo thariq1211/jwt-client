@@ -93,7 +93,7 @@ $(function () {
     e.preventDefault();
     login();
   });
-  $("#hasilHello").click(function (e) {
+  $("#hello").click(function (e) {
     e.preventDefault();
     hitHello();
   });
